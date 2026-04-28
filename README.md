@@ -2,7 +2,7 @@
 
 # Dead Rails Roblox Script Hack - Auto Farm & ESP
 
-[![Stars](https://img.shields.io/github/stars/RobloScripts/Dead-Rails-Hack)](https://github.com/Joefix2010/Jenny-Mod-Minecraft-ALL-Versions) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/awarenessgnatblock/SpeedHub)](https://github.com/Joefix2010/Jenny-Mod-Minecraft-ALL-Versions) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Dead Rails Roblox Script Hack** — The ultimate open-source tool for Dead Rails. Gain a massive advantage with features designed for survival, resource gathering, and combat. Fully optimized for the latest Roblox engine updates.
 
